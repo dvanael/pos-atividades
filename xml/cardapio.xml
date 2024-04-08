@@ -1,0 +1,42 @@
+<menu>
+  <item id="1">
+      <name>Cuscuz com Ovo</name>
+      <description>Prato tradicional nordestino feito com farinha de milho, servido com ovo.</description>
+      <ingredients>Cuscuz, ovo</ingredients>
+      <price>R$12,00</price>
+      <calories>400</calories>
+      <prepTime>20 minutos</prepTime>
+  </item>
+  <item id="2">
+      <name>Pão com Ovo</name>
+      <description>Pão com ovos cozidos ou fritos.</description>
+      <ingredients>Pão, ovo</ingredients>
+      <price>R$5.00</price>
+      <calories>350</calories>
+      <prepTime>10 minutos</prepTime>
+  </item>
+  <item id="3">
+      <name>Café com Leite</name>
+      <description>Café com leite, açucar é opcional.</description>
+      <ingredients>Café, leite</ingredients>
+      <price>R$3.00</price>
+      <calories>100</calories>
+      <prepTime>3 minutos</prepTime>
+  </item>
+  <item id="4">
+      <name>Pão com Manteiga</name>
+      <description>Pão servido com manteiga.</description>
+      <ingredients>Pão, manteiga</ingredients>
+      <price>R$4.00</price>
+      <calories>300</calories>
+      <prepTime>5 minutos</prepTime>
+  </item>
+  <item id="5">
+      <name>Macarrão com Salsicha</name>
+      <description>Macarrão com queijo com salsichas cozidas.</description>
+      <ingredients>Macarrão, salsicha, queijo</ingredients>
+      <price>R$12,00</price>
+      <calories>700</calories>
+      <prepTime>25 minutos</prepTime>
+  </item>
+</menu>
