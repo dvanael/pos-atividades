@@ -9,7 +9,7 @@
         <ingrediente>Cuscuz</ingrediente>
         <ingrediente>Ovo</ingrediente>
       </ingredientes>
-      <preco moeda="BRL">12.00</preco>
+      <preco>&reais;12.00</preco>
       <calorias>400</calorias>
       <tempoPreparo>20 minutos</tempoPreparo>
   </prato>
@@ -20,7 +20,7 @@
         <ingrediente>Pão</ingrediente>
         <ingrediente>Ovo</ingrediente>
       </ingredientes>
-      <preco moeda="BRL">5.00</preco>
+      <preco>&reais;5.00</preco>
       <calorias>350</calorias>
       <tempoPreparo>10 minutos</tempoPreparo>
   </prato>
@@ -31,7 +31,7 @@
         <ingrediente>Café</ingrediente>
         <ingrediente>Leite</ingrediente>
       </ingredientes>
-      <preco moeda="BRL">3.00</preco>
+      <preco moeda="USD">3.00</preco>
       <calorias>100</calorias>
       <tempoPreparo>3 minutos</tempoPreparo>
   </prato>
@@ -42,7 +42,7 @@
         <ingrediente>Pão</ingrediente>
         <ingrediente>Manteiga</ingrediente>
       </ingredientes>
-      <preco>R$4.50</preco>
+      <preco>&reais;4.50</preco>
       <calorias>300</calorias>
       <tempoPreparo>5 minutos</tempoPreparo>
   </prato>
@@ -54,7 +54,7 @@
         <ingrediente>Salsicha</ingrediente>
         <ingrediente>Queijo</ingrediente>
       </ingredientes>
-      <preco moeda="BRL">12.00</preco>
+      <preco moeda="USD">12.00</preco>
       <calorias>700</calorias>
       <tempoPreparo>25 minutos</tempoPreparo>
   </prato>
