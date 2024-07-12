@@ -1,42 +1,61 @@
-<menu>
-  <item id="1">
-      <name>Cuscuz com Ovo</name>
-      <description>Prato tradicional nordestino feito com farinha de milho, servido com ovo.</description>
-      <ingredients>Cuscuz, ovo</ingredients>
-      <price>R$12,00</price>
-      <calories>400</calories>
-      <prepTime>20 minutos</prepTime>
-  </item>
-  <item id="2">
-      <name>Pão com Ovo</name>
-      <description>Pão com ovos cozidos ou fritos.</description>
-      <ingredients>Pão, ovo</ingredients>
-      <price>R$5.00</price>
-      <calories>350</calories>
-      <prepTime>10 minutos</prepTime>
-  </item>
-  <item id="3">
-      <name>Café com Leite</name>
-      <description>Café com leite, açucar é opcional.</description>
-      <ingredients>Café, leite</ingredients>
-      <price>R$3.00</price>
-      <calories>100</calories>
-      <prepTime>3 minutos</prepTime>
-  </item>
-  <item id="4">
-      <name>Pão com Manteiga</name>
-      <description>Pão servido com manteiga.</description>
-      <ingredients>Pão, manteiga</ingredients>
-      <price>R$4.00</price>
-      <calories>300</calories>
-      <prepTime>5 minutos</prepTime>
-  </item>
-  <item id="5">
-      <name>Macarrão com Salsicha</name>
-      <description>Macarrão com queijo com salsichas cozidas.</description>
-      <ingredients>Macarrão, salsicha, queijo</ingredients>
-      <price>R$12,00</price>
-      <calories>700</calories>
-      <prepTime>25 minutos</prepTime>
-  </item>
-</menu>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE cardapio SYSTEM "definicoes.dtd">
+
+<cardapio>
+  <prato id="prato1">
+      <nome>Cuscuz com Ovo</nome>
+      <descricao>Prato tradicional nordestino feito com farinha de milho, servido com ovo.</descricao>
+      <ingredientes>
+        <ingrediente>Cuscuz</ingrediente>
+        <ingrediente>Ovo</ingrediente>
+      </ingredientes>
+      <preco moeda="BRL">12.00</preco>
+      <calorias>400</calorias>
+      <tempoPreparo>20 minutos</tempoPreparo>
+  </prato>
+  <prato id="prato2">
+      <nome>Pão com Ovo</nome>
+      <descricao>Pão com ovos cozidos ou fritos.</descricao>
+      <ingredientes>
+        <ingrediente>Pão</ingrediente>
+        <ingrediente>Ovo</ingrediente>
+      </ingredientes>
+      <preco moeda="BRL">5.00</preco>
+      <calorias>350</calorias>
+      <tempoPreparo>10 minutos</tempoPreparo>
+  </prato>
+  <prato id="prato3">
+      <nome>Café com Leite</nome>
+      <descricao>Café com leite, açucar é opcional.</descricao>
+      <ingredientes>
+        <ingrediente>Café</ingrediente>
+        <ingrediente>Leite</ingrediente>
+      </ingredientes>
+      <preco moeda="BRL">3.00</preco>
+      <calorias>100</calorias>
+      <tempoPreparo>3 minutos</tempoPreparo>
+  </prato>
+  <prato id="prato4">
+      <nome>Pão com Manteiga</nome>
+      <descricao>Pão servido com manteiga.</descricao>
+      <ingredientes>
+        <ingrediente>Pão</ingrediente>
+        <ingrediente>Manteiga</ingrediente>
+      </ingredientes>
+      <preco>R$4.50</preco>
+      <calorias>300</calorias>
+      <tempoPreparo>5 minutos</tempoPreparo>
+  </prato>
+  <prato id="prato5">
+      <nome>Macarrão com Salsicha</nome>
+      <descricao>Macarrão com queijo com salsichas cozidas.</descricao>
+      <ingredientes>
+        <ingrediente>Macarrão</ingrediente>
+        <ingrediente>Salsicha</ingrediente>
+        <ingrediente>Queijo</ingrediente>
+      </ingredientes>
+      <preco moeda="BRL">12.00</preco>
+      <calorias>700</calorias>
+      <tempoPreparo>25 minutos</tempoPreparo>
+  </prato>
+</cardapio>
