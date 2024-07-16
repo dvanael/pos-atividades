@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE quiz SYSTEM "quiz.dtd">
+
+<quiz versao="v1.0">
+  <disciplina>Programação Orientada a Serviços</disciplina>
+  <professor>
+    <nome>Diego Cirilo</nome>
+    <matrícula>1935729</matrícula>
+  </professor>
+  <turma>INFOWEB 2021 4V</turma>
+  <data>26/07/2024</data>
+  <questões>
+    <questão>
+      <enunciado></enunciado>
+      <pontuação></pontuação>
+      <alternativas>
+        <alternativa correta="sim"></alternativa>
+        <alternativa correta="nao"></alternativa>
+        <alternativa correta="nao"></alternativa>
+        <alternativa correta="nao"></alternativa>
+      </alternativas>
+    </questão>
+
+    <questão>
+      <enunciado></enunciado>
+      <pontuação></pontuação>
+      <alternativas>
+        <alternativa correta="sim"></alternativa>
+        <alternativa correta="nao"></alternativa>
+        <alternativa correta="nao"></alternativa>
+        <alternativa correta="nao"></alternativa>
+      </alternativas>
+    </questão>
+
+    <questão>
+      <enunciado></enunciado>
+      <pontuação></pontuação>
+      <alternativas>
+        <alternativa correta="sim"></alternativa>
+        <alternativa correta="nao"></alternativa>
+        <alternativa correta="nao"></alternativa>
+        <alternativa correta="nao"></alternativa>
+      </alternativas>
+    </questão>
+
+    <questão>
+      <enunciado></enunciado>
+      <pontuação></pontuação>
+      <alternativas>
+        <alternativa correta="sim"></alternativa>
+        <alternativa correta="nao"></alternativa>
+        <alternativa correta="nao"></alternativa>
+        <alternativa correta="nao"></alternativa>
+      </alternativas>
+    </questão>
+
+    <questão>
+      <enunciado></enunciado>
+      <pontuação></pontuação>
+      <alternativas>
+        <alternativa correta="sim"></alternativa>
+        <alternativa correta="nao"></alternativa>
+        <alternativa correta="nao"></alternativa>
+        <alternativa correta="nao"></alternativa>
+      </alternativas>
+    </questão>
+  </questões>
+</quiz>
