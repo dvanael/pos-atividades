@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cardapio xmlns="http://cardapio.org"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://cardapio.org cardapio.xsd">
+  <prato id="1">
+      <nome>Cuscuz com Ovo</nome>
+      <descricao>Prato tradicional nordestino feito com farinha de milho, servido com ovo.</descricao>
+      <ingredientes>
+        <ingrediente>Cuscuz</ingrediente>
+        <ingrediente>Ovo</ingrediente>
+      </ingredientes>
+      <preco>12.00</preco>
+      <calorias>400</calorias>
+      <tempoPreparo>20 minutos</tempoPreparo>
+  </prato>
+  <prato id="2">
+      <nome>Pão com Ovo</nome>
+      <descricao>Pão com ovos cozidos ou fritos.</descricao>
+      <ingredientes>
+        <ingrediente>Pão</ingrediente>
+        <ingrediente>Ovo</ingrediente>
+      </ingredientes>
+      <preco>5.00</preco>
+      <calorias>350</calorias>
+      <tempoPreparo>10 minutos</tempoPreparo>
+  </prato>
+  <prato id="3">
+      <nome>Café com Leite</nome>
+      <descricao>Café com leite, açúcar é opcional.</descricao>
+      <ingredientes>
+        <ingrediente>Café</ingrediente>
+        <ingrediente>Leite</ingrediente>
+      </ingredientes>
+      <preco>3.00</preco>
+      <calorias>100</calorias>
+      <tempoPreparo>3 minutos</tempoPreparo>
+  </prato>
+  <prato id="4">
+      <nome>Pão com Manteiga</nome>
+      <descricao>Pão servido com manteiga.</descricao>
+      <ingredientes>
+        <ingrediente>Pão</ingrediente>
+        <ingrediente>Manteiga</ingrediente>
+      </ingredientes>
+      <preco>4.50</preco>
+      <calorias>300</calorias>
+      <tempoPreparo>5 minutos</tempoPreparo>
+  </prato>
+  <prato id="5">
+      <nome>Macarrão com Salsicha</nome>
+      <descricao>Macarrão com queijo com salsichas cozidas.</descricao>
+      <ingredientes>
+        <ingrediente>Macarrão</ingrediente>
+        <ingrediente>Salsicha</ingrediente>
+        <ingrediente>Queijo</ingrediente>
+      </ingredientes>
+      <preco>12.00</preco>
+      <calorias>700</calorias>
+      <tempoPreparo>25 minutos</tempoPreparo>
+  </prato>
+</cardapio>
