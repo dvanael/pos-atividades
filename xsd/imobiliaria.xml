@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<imobiliaria xmlns="http://imobiliaria.org"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://imobiliaria.org imobiliaria.xsd">
+  <imovel>
+    <descricao>Casa Azul</descricao>
+    <proprietario>
+      <nome>Manoel Gomes</nome>
+      <email>manoel.gomes@gmail.com</email>
+      <telefone>(84) 8574-2743</telefone>
+      <telefone>(84) 8233-2743</telefone>
+    </proprietario>
+    <endereco>
+      <rua>Rua Bem Ali</rua>
+      <bairro>Centro</bairro>
+      <cidade>Ruy Barbosa</cidade>
+      <numero>100</numero>
+    </endereco>
+    <caracteristicas>
+      <tamanho>200</tamanho>
+      <numQuartos>3</numQuartos>
+      <numBanheiros>1</numBanheiros>
+    </caracteristicas>
+    <valor>600000</valor>
+  </imovel>
+
+  <imovel>
+    <descricao>Casa Rosa</descricao>
+    <proprietario>
+      <nome>Peppa Pig</nome>
+      <telefone>(84) 8574-2743</telefone>
+    </proprietario>
+    <endereco>
+      <rua>Rua Aculá</rua>
+      <bairro>Conjuto 2</bairro>
+      <cidade>Barcelona</cidade>
+      <numero>876</numero>
+    </endereco>
+    <caracteristicas>
+      <tamanho>60</tamanho>
+      <numQuartos>2</numQuartos>
+      <numBanheiros>1</numBanheiros>
+    </caracteristicas>
+    <valor>200000</valor>
+  </imovel>
+
+  <imovel>
+    <descricao>Casa Com Primeiro Andar no Chão</descricao>
+    <proprietario>
+      <nome>Elyabe</nome>
+      <email>elyabe.metal@gmail.com</email>
+    </proprietario>
+    <endereco>
+      <rua>Rua Central</rua>
+      <bairro>Centro</bairro>
+      <cidade>Centro Horizonte</cidade>
+      <numero>56</numero>
+    </endereco>
+    <caracteristicas>
+      <tamanho>300</tamanho>
+      <numQuartos>4</numQuartos>
+      <numBanheiros>3</numBanheiros>
+    </caracteristicas>
+    <valor>1000000</valor>
+  </imovel>
+
+  <imovel>
+    <descricao>Casa Sem Piscina (uma casa normal)</descricao>
+    <proprietario>
+      <nome>Weverton</nome>
+      <telefone>(31) 7777-8888</telefone>
+    </proprietario>
+    <endereco>
+      <rua>Rua de Barcelona</rua>
+      <bairro>Centro de Barcelona</bairro>
+      <cidade>Barcelona</cidade>
+      <numero>23</numero>
+    </endereco>
+    <caracteristicas>
+      <tamanho>180</tamanho>
+      <numQuartos>3</numQuartos>
+      <numBanheiros>2</numBanheiros>
+    </caracteristicas>
+    <valor>350000</valor>
+  </imovel>
+
+  <imovel>
+    <descricao>Casa Grande</descricao>
+    <proprietario>
+      <nome>Julio "Grandinho" Silva</nome>
+      <telefone>(11) 1111-2222</telefone>
+    </proprietario>
+    <endereco>
+      <rua>Rua do Grande</rua>
+      <bairro>Grande</bairro>
+      <cidade>Grandopólis</cidade>
+    </endereco>
+    <caracteristicas>
+      <tamanho>300</tamanho>
+      <numQuartos>1</numQuartos>
+      <numBanheiros>1</numBanheiros>
+    </caracteristicas>
+    <valor>1</valor>
+  </imovel>
+</imobiliaria>
