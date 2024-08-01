@@ -1,0 +1,61 @@
+{
+  "cardapio": {
+    "prato": [
+      {
+        "id": 1,
+        "nome": "Cuscuz com Ovo",
+        "descricao": "Prato tradicional nordestino feito com farinha de milho, servido com ovo.",
+        "ingredientes": {
+          "ingrediente": ["Cuscuz", "Ovo"]
+        },
+        "preco": 12.00,
+        "calorias": 400,
+        "tempoPreparo": "20 minutos"
+      },
+      {
+        "id": 2,
+        "nome": "Pão com Ovo",
+        "descricao": "Pão com ovos cozidos ou fritos.",
+        "ingredientes": {
+          "ingrediente": ["Pão", "Ovo"]
+        },
+        "preco": 5.00,
+        "calorias": 350,
+        "tempoPreparo": "10 minutos"
+      },
+      {
+        "id": 3,
+        "nome": "Café com Leite",
+        "descricao": "Café com leite, açucar é opcional.",
+        "ingredientes": {
+          "ingrediente": ["Café", "Leite"]
+        },
+        "preco": 3.00,
+        "calorias": 100,
+        "tempoPreparo": "3 minutos"
+      },
+      {
+        "id": 4,
+        "nome": "Pão com Manteiga",
+        "descricao": "Pão servido com manteiga.",
+        "ingredientes": {
+          "ingrediente": ["Pão", "Manteiga"]
+        },
+        "preco": 4.50,
+        "calorias": 300,
+        "tempoPreparo": "5 minutos"
+      },
+      {
+        "id": 5,
+        "nome": "Macarrão com Salsicha",
+        "descricao": "Macarrão com queijo com salsichas cozidas.",
+        "ingredientes": {
+          "ingrediente": ["Macarrão", "Salsicha", "Queijo"]
+        },
+        "preco": 12.00,
+        "calorias": 700,
+        "tempoPreparo": "25 minutos"
+      }
+    ]
+  }
+}

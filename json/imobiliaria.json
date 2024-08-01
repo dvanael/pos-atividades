@@ -1,0 +1,106 @@
+{
+  "imobiliaria": {
+    "imovel": [
+      {
+        "id": 1,
+        "descricao": "Casa Azul",
+        "proprietario": {
+          "nome": "Manoel Gomes",
+          "email": "manoel.gomes@gmail.com",
+          "telefone": ["(84) 8574-2743", "(84) 8233-2743"]
+        },
+        "endereco": {
+          "rua": "Rua Bem Ali",
+          "bairro": "Centro",
+          "cidade": "Ruy Barbosa",
+          "numero": 100
+        },
+        "caracteristicas": {
+          "tamanho": 200,
+          "numQuartos": 3,
+          "numBanheiros": 1
+        },
+        "valor": 600000
+      },
+      {
+        "id": 2,
+        "descricao": "Casa Rosa",
+        "proprietario": {
+          "nome": "Peppa Pig",
+          "telefone": ["(84) 8574-2743"]
+        },
+        "endereco": {
+          "rua": "Rua Aculá",
+          "bairro": "Conjuto 2",
+          "cidade": "Barcelona",
+          "numero": 876
+        },
+        "caracteristicas": {
+          "tamanho": 60,
+          "numQuartos": 2,
+          "numBanheiros": 1
+        },
+        "valor": 200000
+      },
+      {
+        "id": 3,
+        "descricao": "Casa Com Primeiro Andar no Chão",
+        "proprietario": {
+          "nome": "Elyabe",
+          "email": "elyabe.metal@gmail.com"
+        },
+        "endereco": {
+          "rua": "A Rua dos Tanques",
+          "bairro": "Tanques",
+          "cidade": "Holy Mary",
+          "numero": 306
+        },
+        "caracteristicas": {
+          "tamanho": 300,
+          "numQuartos": 4,
+          "numBanheiros": 3
+        },
+        "valor": 1000000
+      },
+      {
+        "id": 4,
+        "descricao": "Casa Sem Piscina (uma casa normal)",
+        "proprietario": {
+          "nome": "Weverton",
+          "telefone": ["(31) 7777-8888"]
+        },
+        "endereco": {
+          "rua": "Rua de Barcelona",
+          "bairro": "Centro de Barcelona",
+          "cidade": "Barcelona",
+          "numero": 23
+        },
+        "caracteristicas": {
+          "tamanho": 180,
+          "numQuartos": 3,
+          "numBanheiros": 2
+        },
+        "valor": 350000
+      },
+      {
+        "id": 5,
+        "descricao": "Casa Grande",
+        "proprietario": {
+          "nome": "Julio Grandinho Silva",
+          "telefone": ["(11) 1111-2222"]
+        },
+        "endereco": {
+          "rua": "Rua do Grande",
+          "bairro": "Grande",
+          "cidade": "Grandopólis"
+        },
+        "caracteristicas": {
+          "tamanho": 300,
+          "numQuartos": 1,
+          "numBanheiros": 1
+        },
+        "valor": 1
+      }
+    ]
+  }
+}
