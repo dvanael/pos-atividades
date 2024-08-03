@@ -67,7 +67,9 @@ for imovel in imoveis:
     lista_imoveis.append(imovel_data)
 
 imobiliaria_json = {
-    "imobiliaria": lista_imoveis
+    "imobiliaria": {
+        "imovel": lista_imoveis
+    }
 }
 
 with open("gen/imobiliaria.json", "w", encoding="utf-8") as json_file:
