@@ -12,10 +12,8 @@
     <complexType>
       <sequence>
         <element ref="im:nome" />
-        <choice minOccurs="0" maxOccurs="unbounded">
-          <element ref="im:email"/>
-          <element ref="im:telefone"/>
-        </choice>
+        <element ref="im:email" minOccurs="0" maxOccurs="1"/>
+        <element ref="im:telefone" minOccurs="0" maxOccurs="unbounded"/>
       </sequence>
     </complexType>
   </element>
