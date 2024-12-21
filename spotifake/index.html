@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotifake</title>
+    <link rel="stylesheet" href="src/main.css">
+</head>
+<body>
+
+    <h1>SPOTIFAKE!!</h1>
+    <div class="container" id="artistas-container">
+        <!-- Os dados dos artistas serão inseridos aqui -->
+    </div>
+
+    <h2>Álbuns Selecionados</h2>
+    <div class="albuns-container" id="albuns-container">
+        <!-- Os álbuns carregados serão exibidos aqui -->
+    </div>
+
+    <h2>Músicas do Álbum Selecionado</h2>
+    <div class="musicas-container" id="musicas-container">
+        <!-- As músicas carregadas serão exibidas aqui -->
+    </div>
+
+    <div class="form-container">
+        <h2>Cadastrar Artista</h2>
+        <form id="form-artista" onsubmit="submitForm(event)">
+            <label for="nome">Nome do Artista:</label>
+            <input type="text" id="nome" name="nome" required>
+
+            <label for="local">Local:</label>
+            <input type="text" id="local" name="local" required>
+
+            <label for="ano_criacao">Ano de Criação:</label>
+            <input type="number" id="ano_criacao" name="ano_criacao" required>
+
+            <button type="submit">Cadastrar</button>
+        </form>
+    </div>
+  </div>
+
+    <script src="src/main.js"></script>
+</body>
+</html>
