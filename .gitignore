@@ -1,8 +1,12 @@
+# python
 .venv
 venv
 gen
 __pycache__
 keys.json
+
+## Django
+*.sqlite3
 
 ## Javascript
 # Logs
